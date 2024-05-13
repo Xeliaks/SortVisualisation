@@ -1,0 +1,14 @@
+
+¬
+java:S1319B"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(çöÂüJ$0e8253ca-7caf-409c-abaf-454594ace53a
+–	java:S116"VRename this field "START_COLOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ñðôùÿÿÿÿJ$08e34393-ee69-4fcb-b84f-96b1def5a4e7
+’	java:S116"WRename this field "SELECT_COLOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âŸƒ‰J$12257d58-7c20-4b61-8df4-b566c589b9ec
+—	java:S116"WRename this field "SORTED_COLOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¯‰™øÿÿÿÿJ$23ac162e-7038-4a2d-8713-574f6cb868db
+‰
+java:S3008"MRename this field "DX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ú–·J$3c74427d-6990-4155-8ab5-deb5d09e6012
+b
+java:S1170"!Make this final field static too.(‹ñðôùÿÿÿÿJ$9bb8d11f-4d25-4c57-a75a-53d95c9aa80f
+]
+java:S1170"!Make this final field static too.(âŸƒ‰J$12ec06ff-3a69-4c0f-94a8-2a4529c0d3c0
+b
+java:S1170"!Make this final field static too.(¬¯‰™øÿÿÿÿJ$c9222d5c-7fba-4fab-a6ea-2e7f5f3775c2

@@ -1,0 +1,13 @@
+
+›
+java:S1104"XMake NO_OF_SNODES a static final constant or non-public and provide accessors if needed.(£Ò××8—‰ú›÷1J$819ed10d-8495-49bc-b1d3-a704a884380e
+u
+java:S1444"2Make this "public static NO_OF_SNODES" field final(£Ò××8˜‰ú›÷1J$9df8056a-7d0f-47f5-836d-02a69cbc0f75
+š
+java:S3008"WRename this field "NO_OF_SNODES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ò××8ž‰ú›÷1J$b0b39981-dd21-4ae7-bf83-8aafb3d57311
+e
+java:S3010N")Remove this assignment of "abstractSort".(èŒ¿ÅJ$3fef104c-0ed7-4336-9347-c2c89313ad02
+v
+java:S2209="5Change this instance-reference to a static reference.(•–ÏÃüÿÿÿÿJ$6662439c-9397-4b73-8696-30676c6c9bb7
+g
+java:S1602T",Remove useless curly braces around statement(¿š®jJ$c7b52b58-12cf-41f5-bbe9-45476240fcfa

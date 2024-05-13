@@ -1,0 +1,13 @@
+
+s
+java:S1104"XMake NO_OF_CNODES a static final constant or non-public and provide accessors if needed.(§ËàÙıÿÿÿÿ
+M
+java:S1444"2Make this "public static NO_OF_CNODES" field final(§ËàÙıÿÿÿÿ
+r
+java:S3008"WRename this field "NO_OF_CNODES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ËàÙıÿÿÿÿ
+?
+java:S3010N")Remove this assignment of "abstractSort".(èŒ¿Å
+P
+java:S2209="5Change this instance-reference to a static reference.(•–ÏÃüÿÿÿÿ
+A
+java:S1602T",Remove useless curly braces around statement(¿š®j
